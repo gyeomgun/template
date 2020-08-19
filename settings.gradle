@@ -1,0 +1,6 @@
+rootProject.name = 'template'
+include 'template-web'
+include 'template-interface'
+include 'template-batch'
+include 'template-domain'
+

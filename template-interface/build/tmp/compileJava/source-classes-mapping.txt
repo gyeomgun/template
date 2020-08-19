@@ -1,0 +1,4 @@
+com/hg/template/InterfaceApplication.java
+ com.hg.template.InterfaceApplication
+com/hg/template/com/hg/template/controller/TestController.java
+ com.hg.template.com.hg.template.controller.TestController

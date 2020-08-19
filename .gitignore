@@ -1,0 +1,6 @@
+.gradle
+.idea
+template-batch/out
+template-domain/out
+template-interface/out
+template-web/out
